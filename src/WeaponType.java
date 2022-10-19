@@ -1,0 +1,3 @@
+public enum WeaponType {
+    BIOLOGICAL_WEAPON, CHEMICAL_WEAPON,EXPLOSIVE_WEAPON
+}
